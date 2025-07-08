@@ -4,11 +4,11 @@
     "description": "在手环快应用查看重要日子的倒计时",
     "preview": ["preview.png"],
     "icon": "icon.png",
-    "source_url": "https://github.com/sf-yuzifu/Daymatter_Quickapp_AstroBox_Release",
+    "source_url": "https://github.com/sf-yuzifu/daymatter",
     "author": [
       {
         "name": "小鱼yuzifu",
-        "author_url": "https://github.com/sf-yuzifu/daymatter"
+        "author_url": "https://yzf.moe"
       }
     ]
   },
