@@ -1,7 +1,7 @@
 {
   "item": {
     "id": "com.yzf.daymatter",
-    "restype": "quickapp",
+    "restype": "quick_app",
     "name": "倒数日 快应用",
     "description": "在手环快应用查看重要日子的倒计时",
     "preview": [
