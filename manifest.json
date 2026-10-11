@@ -19,48 +19,60 @@
   },
   "downloads": {
     "n66": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "n67": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "o66": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "o66nfc": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "n62": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "o62": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "o62m": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "o65": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "p65": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "o65m": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     },
     "p62": {
-      "version": "2.1",
-      "file_name": "com.yzf.daymatter.release.2.1.rpk"
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
+    },
+    "p67": {
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
+    },
+    "q66cn": {
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
+    },
+    "q66nfc": {
+      "version": "3.0",
+      "file_name": "com.yzf.daymatter.release.3.0.rpk"
     }
   }
 }
