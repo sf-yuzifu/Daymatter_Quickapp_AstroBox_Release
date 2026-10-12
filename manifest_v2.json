@@ -280,6 +280,10 @@
     "bundledResources": {
       "recommended": [
         {
+          "type": "watchface",
+          "id": "979825266002"
+        },
+        {
           "type": "plugin",
           "id": "倒数日配置工具"
         }
